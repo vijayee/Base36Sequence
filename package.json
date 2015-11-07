@@ -1,0 +1,13 @@
+{
+    "name": "Base36Sequence",
+    "version": "0.0.1",
+    "description": "Sequences to increment in base 36",
+    "main": "index.js",
+    "author": {
+        "name": "Vijayee Kulkaa"
+    },
+    "keywords": [
+        "Base36",
+        "Sequence"
+    ]
+}
