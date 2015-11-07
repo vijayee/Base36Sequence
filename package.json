@@ -1,6 +1,6 @@
 {
   "name": "base36sequence",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sequences to increment in base 36",
   "main": "index.js",
   "author": "Vijayee Kulkaa",
