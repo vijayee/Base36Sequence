@@ -10,13 +10,13 @@ var sequence= function(start){
     else {
         current = start;
     }
-    //Display current Sequence Number
+    //Display current Sequence Number do not increment
     this.current= function(){
         return current.toString(36);
     };
-    //Get next Sequence Number and increment sequence
+    //Get current Sequence Number and increment sequence
     this.next= function(){
-        var next= this.current.toString(36);
+        var next= current.toString(36);
         current++;
         return next
     };

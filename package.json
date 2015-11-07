@@ -1,13 +1,23 @@
 {
-    "name": "Base36Sequence",
-    "version": "0.0.1",
-    "description": "Sequences to increment in base 36",
-    "main": "index.js",
-    "author": {
-        "name": "Vijayee Kulkaa"
-    },
-    "keywords": [
-        "Base36",
-        "Sequence"
-    ]
+  "name": "base36sequence",
+  "version": "0.0.1",
+  "description": "Sequences to increment in base 36",
+  "main": "index.js",
+  "author": "Vijayee Kulkaa",
+  "keywords": [
+    "Base36",
+    "Sequence"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayee/Base36Sequence.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijayee/Base36Sequence/issues"
+  },
+  "homepage": "https://github.com/vijayee/Base36Sequence#readme"
 }
